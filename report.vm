@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<favorites>
+#foreach( $song in $songList )
+  <song>
+    <title>$song.songName</title>
+    <artist>$song.artistName</artist>
+    <duration>$song.duration</duration>
+    <genre>$song.genre</genre>
+    <album>$song.album</album>
+  </song>
+#end
+</favorites>

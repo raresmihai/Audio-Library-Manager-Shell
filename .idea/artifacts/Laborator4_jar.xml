@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Laborator4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Laborator4_jar</output-path>
+    <root id="archive" name="Laborator4.jar">
+      <element id="module-output" name="Laborator4" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/tika-app-1.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/youtubedownloader.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/velocity-1.7/velocity-1.7-dep.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
